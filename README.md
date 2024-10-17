@@ -13,16 +13,13 @@ A simple yet powerful currency converter application built in Python. This tool 
 
 To get started with the Currency Converter, clone the repository:
 
-bash
-
 git clone https://github.com/dionabazi/Currency-Converter.git
+
 cd Currency-Converter
 
 🛠️ Usage
 
 Run the application and follow the prompts to convert between currencies:
-
-bash
 
 python currency_converter.py
 
