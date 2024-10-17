@@ -26,3 +26,12 @@ python currency_converter.py
 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix bugs.
+
+Screenshots
+
+![Screenshot_2024-10-17_14_12_09](https://github.com/user-attachments/assets/3d1d9d33-f625-4f44-824d-3fd6c7ed0250)
+
+
+[![bmc-button (2)](https://github.com/user-attachments/assets/8a994d82-5bf8-480e-9e64-728d5aba2e14)](https://ko-fi.com/dionabazi)
+
+Thank you for your support! 💕
